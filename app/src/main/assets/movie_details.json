@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "title": "The Kashmir Files",
+      "content": "A heart-wrenching tale that captures the pain, suffering, and struggle of the Kashmiri Pandit community in 1990 and leads Krishna, a young college student, to set out on a quest to uncover the truth.",
+      "rating": "3.4/5",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/The_Kashmir_Files_poster.jpg/220px-The_Kashmir_Files_poster.jpg"
+    },
+    {
+      "title": "Radhe Shyam",
+      "content":  "Radhe Shyam is a 2022 Indian period romantic drama film written and directed by Radha Krishna Kumar, starring Prabhas and Pooja Hegde. It is shot simultaneously in Telugu and Hindi languages.",
+      "rating": "3/5",
+      "imageURL":"https://cdn.bollywoodmdb.com/movies/largethumb/2021/radhe-shyam/radhe-shyam-poster-8.jpg"},
+    {
+      "title": "Attack",
+      "rating": "3.7/5",
+      "content": "Witness the rise of an army soldier as he realizes his destiny and comes to terms to becoming India's first super soldier created to combat terrorists as he fights his inner demons and outer enemies.With lots of action",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/5b/Attack_film_poster.jpg"
+    },
+    {
+      "title": "Jersy",
+      "rating": "3.5/5",
+      "content":  "A cricketer who quits cricket decides to revive his career at the age of 36 for his sons dream and prove his ability.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/2/2a/Jersey_2022_poster.jpg"
+    },
+    {
+      "title": "Pushpa",
+      "rating":"3.8/5",
+      "content": "A lorry driver in Seshachalam forests of South India, set in the backdrop of red sandalwood smuggling. Red Sandalwood is endemic to South-Eastern Ghats (mountain range) of India.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/75/Pushpa_-_The_Rise_%282021_film%29.jpg"
+    },
+    {
+      "title": "Gangubai Kathiwadi",
+      "rating": "3.5/5",
+      "content":   "A woman becomes a powerful underworld figure.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/8/89/Gangubai_Kathiawadi_film_poster.jpg"
+    },
+    {
+      "title": "Gehraiyaan",
+      "rating": "3.1/5",
+      "content": "Takes you on a journey into the deep rooted intricacies of modern human relationships.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/6a/Gehraiyaan_%282017_web_series%29.jpg"
+    },
+    {
+      "title": "Bachchhan Paanday",
+      "rating": "2.9/5",
+      "content":  "A budding director tries to research a merciless gangster for making a film on gangster-ism. But her secret attempts to conduct the research fail when she gets caught for snooping.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/c/c1/Bachchhan_Paandey_poster.jpg"
+    },
+    {
+      "title": "Jhund",
+      "rating": "3.7/5",
+      "content":  "Based on the life of Vijay Barse, a retired sports teacher who founded an NGO called Slum Soccer. He managed to rehabilitate street kids by keeping them off drugs and crime by turning them into soccer players and building a whole team.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/5b/Jhund_Film_Poster.jpg"
+    },
+    {
+      "title": "Jab Harry Met Sejal",
+      "rating": "2.5/5",
+      "content":  "A depressed middle-aged tour guide who lives in his own bubble gets another chance to experience and face reality through a chirpy girl.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d1/Jab_Harry_Met_Sejal_poster.jpg"
+    }
+
+  ]
+}

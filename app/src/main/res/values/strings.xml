@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieReviewAshish</string>
+    <string name="Kashmir_File_Movies_title">The Kashmir File</string>
+    <string name="description_kashmir_file">A heart-wrenching tale that captures the pain, suffering, and struggle of the Kashmiri Pandit community in 1990 and leads Krishna, a young college student, to set out on a quest to uncover the truth.</string>
+    <string name="movies_description_of_image">image_of_movies</string>
+    <string name="rating_of_kashmirFile">3.5</string>
+</resources>
